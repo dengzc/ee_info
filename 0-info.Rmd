@@ -1,0 +1,79 @@
+---
+title: "Why Environmental Econometrics?"
+output:
+  xaringan::moon_reader:
+    # css: ['default', 'metropolis', 'metropolis-fonts', 'my-css.css']
+    css: ['default', 'ninjutsu', 'shinobi']
+    # self_contained: true
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      # ratio: '16:9'
+
+---
+
+background-image: url(files/wildfire43.png)
+background-position: center
+background-size: contain
+
+---
+
+layout: true
+class: split-three
+
+.column.bg-main1[.content.vmiddle.center[
+# environmental 
+# economics
+
+.row[.content.nopadding[
+.fig90[![](files/env169.jpg)]
+]]
+
+]]
+
+.column.bg-main2[.content.vmiddle.center[
+# causal 
+# inference
+
+.row[.content.nopadding[
+.fig90[![](files/causal.png)]
+]]
+
+]]
+.column.bg-main3[.content.vmiddle.center[
+# innovative 
+# data
+
+.row[.content.nopadding[
+.fig90[![](files/Hawaii.png)]
+]]
+
+]]
+
+
+---
+class: show-1000
+---
+class: show-1100
+count: false
+---
+class: show-1110
+count: false
+---
+count: false
+
+---
+layout: false
+class: bg-main1 center middle hide-slide-number
+
+.column.slide-in-left[
+.sliderbox.vmiddle.shade_main.center[
+.font5[See you in Feb!]]]
+.column[
+]
+
+
+
+
+
